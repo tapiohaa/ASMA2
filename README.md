@@ -2,7 +2,7 @@
 
 Article: “Abolishing a GP Visit Copayment: Did It Affect GP Use?” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2022)
 
-Version 1: ADD LINK
+Version 1: https://osf.io/8q5b2/
 
 Date: September 2022 <br>
 
