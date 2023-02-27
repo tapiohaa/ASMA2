@@ -1,10 +1,10 @@
 # README for replication files 
 
-Article: “Abolishing a GP Visit Copayment: Did It Affect GP Use?” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2022)
+Article: “Does Abolishing a Copayment Increase Doctor Visits? A Comparative Case Study” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2023)
 
-Version 1: https://osf.io/8q5b2/
+Version 2 (latest), Version 1: https://osf.io/8q5b2/
 
-Date: September 2022 <br>
+Date: February 2023 <br>
 
 
 ## The contents
