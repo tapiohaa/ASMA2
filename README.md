@@ -1,10 +1,10 @@
 # README for replication files 
 
-Article: “Does Abolishing a Copayment Increase Doctor Visits? A Comparative Case Study” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2023)
+Haaga, Tapio, Böckerman, Petri, Kortelainen, Mika and Tukiainen, Janne. "Does Abolishing a Copayment Increase Doctor Visits? A Comparative Case Study" *The B.E. Journal of Economic Analysis & Policy*, vol. 24, no. 1, 2024, pp. 187-204. https://doi.org/10.1515/bejeap-2023-0056
 
-Version 2 (latest), Version 1: https://osf.io/8q5b2/
+Earlier working paper versions: https://osf.io/8q5b2/
 
-Date: February 2023 <br>
+Date: February 2024 <br>
 
 
 ## The contents
